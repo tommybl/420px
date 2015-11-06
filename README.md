@@ -1,5 +1,5 @@
 # 420px
-> 500px Like (Photography social community) / PHP / Solo Project
+> 500px Like (Photo community) / PHP / Solo Project
 
 * Project management, Conception, Design, Programming
 * PHP5, MySQL, Imagick Library
