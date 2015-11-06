@@ -11,3 +11,19 @@ The final result was really satisfying, hosting a lot of functionalities:
 `Social community, hosting pictures, managing account and pictures, applying filters (30 possibilities) and transformations, comments, likes, favourites, following users (with news feed), sharing pictures on social networks etc.`
 
 ![alt tag](screenshots/1.png)
+
+![alt tag](screenshots/3.png)
+
+![alt tag](screenshots/4.png)
+
+![alt tag](screenshots/5.png)
+
+![alt tag](screenshots/6.png)
+
+![alt tag](screenshots/7.png)
+
+![alt tag](screenshots/8.png)
+
+![alt tag](screenshots/9.png)
+
+![alt tag](screenshots/10.png)
