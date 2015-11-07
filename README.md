@@ -10,6 +10,8 @@ As part of a main project at EPITA for PHP learning, I had to create a 500px Lik
 The final result was really satisfying, hosting a lot of functionalities:  
 `Social community, hosting pictures, managing account and pictures, applying filters (30 possibilities) and transformations, comments, likes, favourites, following users (with news feed), sharing pictures on social networks etc.`
 
+### Screenshots
+
 ![alt tag](screenshots/1.png)
 
 ![alt tag](screenshots/3.png)
